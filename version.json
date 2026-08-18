@@ -1,4 +1,4 @@
 {
- "lista": "{\"fecha\": \"2026-08-18 14:52\", \"n\": 5, \"novedades\": [], \"sha256\": \"332ed16ce41baa194cd16facdeaf92465ce80f3d84278a0ed69e3f4355a8975c\", \"tamano\": 98011850, \"url\": \"\", \"version\": \"5.0\"}",
- "firma": "484b08615606d71cbe0acea03a096fc14111be94b968f87307155b31f50fe6404114b98f804f51dbed794095883d6ff76d51a2993f6aaf32250508e6b8d5d40b"
+ "lista": "{\"fecha\": \"2026-08-18 21:51\", \"n\": 6, \"novedades\": [], \"sha256\": \"5825163b773736a04a329539853d49d3769393179fbddb0eaafee54bf7f4ee89\", \"tamano\": 98016191, \"url\": \"\", \"version\": \"5.0\"}",
+ "firma": "671ccec19fb868edb055d75ab16b70ab189f516edd0066f462e8446565cb81ac765f84c458096689ec7b9bee70847aaca99963284200025796a72a83c7d0ec04"
 }
