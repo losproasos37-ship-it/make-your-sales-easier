@@ -1,4 +1,4 @@
 {
- "lista": "{\"fecha\": \"2026-08-19 10:09\", \"n\": 8, \"novedades\": [\"Actualizacion de fondo del panel, Fondo retocado.\", \"Parche de error en demostración al crear empresa.\", \"Parches generales\"], \"sha256\": \"d4e2ec876438e457aa885a0c9478c7e24d0d0b2e5aa85d6558c5ac8147415b21\", \"tamano\": 98035702, \"url\": \"\", \"version\": \"5.1\"}",
- "firma": "34a13676bf77759c1112c8621c8e9cb75db80b001e4e6a874a924366af9a9799a7d8319f1189cdc71fdc1b972dd7f96605a67d4ed653e3e87a64c613528a5203"
+ "lista": "{\"fecha\": \"2026-08-19 19:27\", \"n\": 9, \"novedades\": [], \"sha256\": \"9d290dc6c4e768b8da29f23ce875d217aadad230c83fa89ba17c6e97112f74e2\", \"tamano\": 98045800, \"url\": \"\", \"version\": \"5.3\"}",
+ "firma": "cd7aaebae982f3f6c2cbef1124b93712a1f3fbcc65d021834a39d8d76b31479721522c587ef4412cb97d6dcf4489e1fe28d6ca824b4350ed5503c3efde9e1e00"
 }
