@@ -1,4 +1,4 @@
 {
- "lista": "{\"fecha\": \"2026-08-18 22:31\", \"n\": 7, \"novedades\": [], \"sha256\": \"d9fff7729fbc65f8a4061436ab9f7cd6b5195702a68ac30ef63add3dd30233c7\", \"tamano\": 98031408, \"url\": \"\", \"version\": \"5.0\"}",
- "firma": "756239b147f754275f54ea031d8b9cc149474373933d8d7948d3fa7f28aa24d45babb65b3e7e14cda8f3bb14dd624a3d61cc49e899e6368b92bb3aca1af28603"
+ "lista": "{\"fecha\": \"2026-08-19 10:09\", \"n\": 8, \"novedades\": [\"Actualizacion de fondo del panel, Fondo retocado.\", \"Parche de error en demostración al crear empresa.\", \"Parches generales\"], \"sha256\": \"d4e2ec876438e457aa885a0c9478c7e24d0d0b2e5aa85d6558c5ac8147415b21\", \"tamano\": 98035702, \"url\": \"\", \"version\": \"5.1\"}",
+ "firma": "34a13676bf77759c1112c8621c8e9cb75db80b001e4e6a874a924366af9a9799a7d8319f1189cdc71fdc1b972dd7f96605a67d4ed653e3e87a64c613528a5203"
 }
